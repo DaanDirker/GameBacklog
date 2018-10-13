@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="statuses">
+        <item>Playing</item>
+        <item>Want to play</item>
+        <item>Dropped</item>
+        <item>Stalled</item>
+    </string-array>
+</resources>
